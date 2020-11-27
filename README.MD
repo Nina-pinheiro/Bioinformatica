@@ -13,8 +13,8 @@ Python 3.8.3
 
 🍀 Bibliotecas utilizadas
 
-Import Random
-Import argparse
+Import Random <br/>
+Import Argparse
 
 🍀 Agradecimentos
 
