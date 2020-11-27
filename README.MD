@@ -23,6 +23,7 @@ Toda comunidade de TI e pessoas que estão me ajudando nessa caminhada
 🍀 Referências
 
 Bioinformatics for Dummies - Jean Michel Claverie and Cedric Notredame <br/>
-http://biopython.org/DIST/docs/tutorial/Tutorial.html
+http://biopython.org/DIST/docs/tutorial/Tutorial.html <br/>
+
 🍀 License MIT
 
