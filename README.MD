@@ -8,7 +8,7 @@ Scripts relacionados a Bioinformática
 
 🍀 Instalação
 
-Vscode
+Vscode <br/>
 Python 3.8.3
 
 🍀 Bibliotecas utilizadas
@@ -22,7 +22,7 @@ Toda comunidade de TI e pessoas que estão me ajudando nessa caminhada
 
 🍀 Referências
 
-Bioinformatics for Dummies - Jean Michel Claverie and Cedric Notredame
-
+Bioinformatics for Dummies - Jean Michel Claverie and Cedric Notredame <br/>
+http://biopython.org/DIST/docs/tutorial/Tutorial.html
 🍀 License MIT
 
