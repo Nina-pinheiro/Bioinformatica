@@ -13,8 +13,13 @@ Python 3.8.3
 
 🍀 Bibliotecas utilizadas
 
+pip install biopython <br/>
+from Bio. Seq import Seq
 Import Random <br/>
-Import Argparse
+Import Argparse <br/>
+import collections <br/>
+import numpy as np <br/>
+import pandas as pd <br/>
 
 🍀 Agradecimentos
 
